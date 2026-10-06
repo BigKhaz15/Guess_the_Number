@@ -13,5 +13,7 @@ Running the Game
 1. Open the solution in Visual Studio with C++ support installed.
 2. Build the project.
 3. Run and follow the terminal prompts.
+
 Uses the C++ standard library; no external libraries are required.
+
 What I Practiced: Functions, loops, conditions, random number generation, string processing, input validation, and handling the end of input.
