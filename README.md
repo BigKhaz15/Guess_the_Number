@@ -1,6 +1,7 @@
 Number Guessing Game
 My first completed game: a C++ terminal game where you guess a random number between 1 and 100.
-How to Play
+
+How to Play:
 Enter a guess and follow the Too high! or Too low! hints until you find the secret number. When you win, the game displays how many valid guesses you made.
 Features
 - Random secret number generated for each run.
